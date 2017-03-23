@@ -6,6 +6,8 @@ public class mainExamen {
 	public static paquete[] arrayP= new paquete[40];
 	public static ArrayList<paquete> llistaPaquetes= new ArrayList<paquete>();
 	
+	//hola
+	
 	public static void estadisticas(){
 		int mediaKM=0, contador=0;
 		double anchoMaximo=0.00;
