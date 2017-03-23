@@ -5,6 +5,16 @@ import java.util.ArrayList;
 
 /*YEEEEEEEE FRIKIIIII ;) ProsOfProgaming WAS HERE
  *Tornem a modificar 
+ *
+ *
+ *yeeyeyeyeyey
+ *w
+ *erg
+ *we
+ *we
+ *gwe
+ *gwe
+ *g
  */
 
 public class mainExamen {
