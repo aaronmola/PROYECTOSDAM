@@ -1,5 +1,7 @@
 package examen;
-
+/**
+ * AARON ESTUDIA MÃ‰S SINO NO APROVARAS TOT!!!!!!!!!!!!!!!!!!!!!
+ */
 import java.util.ArrayList;
 
 public class mainExamen {
@@ -24,8 +26,8 @@ public class mainExamen {
 			
 		}
 		if (contador!=0){ System.out.println("La media de KM es: "+(mediaKM/contador)+" km.");}
-		System.out.println("El paquete con más anchura, tiene: "+anchoMaximo);
-		System.out.println("El paquete con más anchura es: "+toString01);
+		System.out.println("El paquete con mï¿½s anchura, tiene: "+anchoMaximo);
+		System.out.println("El paquete con mï¿½s anchura es: "+toString01);
 	}
 	
 	public static void anchoMaximo(){
