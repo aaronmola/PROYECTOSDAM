@@ -4,8 +4,9 @@ import java.util.ArrayList;
 
 
 /*YEEEEEEEE FRIKIIIII ;) ProsOfProgaming WAS HERE
- * 
+ *Tornem a modificar 
  */
+
 public class mainExamen {
 	public static paquete[] arrayP= new paquete[40];
 	public static ArrayList<paquete> llistaPaquetes= new ArrayList<paquete>();
