@@ -11,6 +11,8 @@ public class HolaMundoBernat {
 	
 	//provem
 	
+	//lococococo
+	
 	public static void dePutaMare(){
 		System.out.println("De puta mare");
 	}
