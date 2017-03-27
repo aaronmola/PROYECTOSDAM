@@ -2,6 +2,6 @@ package examen;
 
 public class HolaMundoBernat {
 
-	private String s="HolaMundoAdeu";
+	private String s="HolaMundoAdeuAltraVolta";
 	//ye olosojfsjflskjñdfsklj
 }
