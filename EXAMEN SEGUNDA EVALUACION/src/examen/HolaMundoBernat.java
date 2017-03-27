@@ -8,4 +8,9 @@ public class HolaMundoBernat {
 	//ye olosojfsjflskjñdfsklj
 	
 	//oqwejgfpoqnwefpokqnwefholalalalal
+	
+	
+	public static void dePutaMare(){
+		System.out.println("De puta mare");
+	}
 }
